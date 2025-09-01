@@ -1,8 +1,6 @@
 # BaseDeDatos1-25-26
 Gestión Docente de la asignatura Base de Datos 1 IYA023 para periodo lectivo 2025 - 2026
 
-# NombreAsignatura
-
 Repo de materiales y proyectos de la asignatura **Base de Datos 1** del [Grado de Ingeniería Informática](https://www.uneatlantico.es/escuela-politecnica-superior/estudios-grado-oficial-en-ingenieria-informatica) la [Universidad Europea del Atlántico](https://www.uneatlantico.es).
 
 ## Curso 2025-2026
