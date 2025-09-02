@@ -5,4 +5,11 @@
 3. **Diseño lógico**: traducción del modelo conceptual al modelo relacional.
 4. **Diseño físico**: implementación en un SGBD específico, optimizando rendimiento.
 
-👉 Estos pasos permiten pasar de necesidades reales a una base de datos funcional y eficiente.
+Estos pasos permiten pasar de necesidades reales a una base de datos funcional y eficiente.
+
+
+Flujo de diseño de bases de datos
+
+```
+Requerimientos → Diseño Conceptual (ER) → Diseño Lógico (Relacional) → Diseño Físico (SGBD)
+```

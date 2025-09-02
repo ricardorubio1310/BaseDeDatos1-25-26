@@ -9,4 +9,4 @@
   - **Clave foránea**: conecta una tabla con otra.
 - Una relación N:M se representa con una **tabla intermedia**.
 
-👉 Es el modelo más usado en sistemas actuales y base de SQL.
+ Es el modelo más usado en sistemas actuales y base de SQL.

@@ -10,4 +10,4 @@ En total son 12 reglas; las más importantes:
 6. **Vistas actualizables**: se pueden modificar datos a través de vistas.
 9. **Independencia lógica**: cambios en la estructura lógica no afectan a las aplicaciones.
 
-👉 No todas las BDs cumplen al 100% las reglas, pero marcan el estándar del modelo relacional.
+ No todas las BDs cumplen al 100% las reglas, pero marcan el estándar del modelo relacional.

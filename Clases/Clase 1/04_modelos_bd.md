@@ -6,4 +6,7 @@
 - **Orientado a objetos**: integra conceptos de programación OO.
 - **NoSQL**: documental (MongoDB), clave-valor (Redis), grafos (Neo4j).
 
-👉 El modelo define la manera en que los datos se organizan y se consultan.
+El modelo define la manera en que los datos se organizan y se consultan.
+
+
+Archivos planos → Jerárquico → Red → Relacional → NoSQL

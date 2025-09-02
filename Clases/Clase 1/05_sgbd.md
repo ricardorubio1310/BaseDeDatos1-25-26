@@ -4,4 +4,4 @@
 - Controla: almacenamiento, seguridad, integridad, concurrencia y recuperación.
 - Ejemplos de funciones: crear tablas, insertar registros, definir usuarios.
 
-👉 Un SGBD es la capa que conecta los usuarios con la base de datos.
+ Un SGBD es la capa que conecta los usuarios con la base de datos.

@@ -5,4 +5,18 @@
 - **Años 90–2000**: bases distribuidas, cliente-servidor, data warehouses.
 - **Actualidad**: NoSQL, bases en la nube, Big Data, multimodelo.
 
-👉 La historia muestra la evolución desde el almacenamiento rudimentario hasta sistemas complejos para grandes volúmenes de datos.
+La historia muestra la evolución desde el almacenamiento rudimentario hasta sistemas complejos para grandes volúmenes de datos.
+
+
+## Diagrama comparativo: Archivos planos vs Modelo relacional
+
+```
+Archivos planos                Modelo relacional
++-----------+                  +-------------------+
+| Cliente   |                  |   Tabla CLIENTE   |
+| Nombre    |                  | id_cliente (PK)   |
+| Dirección |   ---> cambio    | nombre            |
+| Teléfono  |                  | dirección         |
++-----------+                  | teléfono          |
+                               +-------------------+
+```
