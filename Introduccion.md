@@ -6,10 +6,13 @@ Para esto se abordarán temas como:
 
 * Un resumen breve de la historia de las Bases de Datos.
 * Conceptos básicos necesarios para el entendimiento del las Bases de Datos
-* Modelado conceotual
+* Modelado conceptual
+* Modelo entidad relación
 * Algebra relacional
+* Normalización
 * Modelado Relacional
 * Normalización
 * Modelo entidad relación
 * SQL básico
 * Arquitectura de los SGBD
+* Optimización

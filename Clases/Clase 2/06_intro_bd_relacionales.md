@@ -10,7 +10,6 @@
 
 Son el estándar de facto para aplicaciones empresariales y académicas.
 
-
 Implementación de una relación N:M en modelo relacional
 
 ```
@@ -20,8 +19,8 @@ nombre                       nombre
 
         ↓   relación N:M   ↓
 
-Tabla COMPRA
-id_cliente (FK)
-id_producto (FK)
-fecha
+          Tabla COMPRA
+          id_cliente (FK)
+          id_producto (FK)
+          fecha
 ```
